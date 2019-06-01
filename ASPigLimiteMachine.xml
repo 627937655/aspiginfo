@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>	
+<!--ASPigLimiteMachine.xml update 2019-05-17-->		
+<results>
+	<state>1</state>
+	<machine>528C-8E6C-D4A3-C659-8999-A0E9-DF15-AD32|3790462</machine>      <!-- 20190605 -->
+	<machine>F4C3-0B79-2950-89C0-7045-67AB-94AE-9354|478606149</machine>    <!-- 20190708 -->	
+	<machine>2FDA-F9E6-E76D-7281-32CB-BBA2-31DC-9D36|563037044</machine>    <!-- 20190717 -->
+	<machine>7094-5DEC-4048-CC17-67F9-1FD3-9F0E-4C9A|563037044</machine>    <!-- 20190717 -->
+	<machine>E81A-A7AC-539E-807D-5BE3-3904-2D5F-1115|26813835</machine>     <!-- 20190729 -->
+	<machine>7D24-792B-806E-84AF-6A5E-9562-AE10-0BD6|2677218304</machine>   <!-- 20190928 -->	
+	<machine>A3BA-572F-1BA0-A43D-FF1B-79D3-BF25-2278|1010747578</machine>   <!-- 20191004 -->
+	<machine>9AFB-F010-0E19-EFD0-F7A0-63F5-C3AC-C95F|296539797</machine>    <!-- 20191004 -->
+	<machine>FE32-70E0-2B6D-7C40-9FD3-17CE-6742-D465|420748761</machine>    <!-- 20191006 -->
+	<machine>1DA0-B7BF-10BC-19A2-F75E-BB42-DAC0-958A|32164513</machine>     <!-- 20191020 -->
+	<machine>0FE2-CEDF-6342-F579-9643-BCE1-8789-8C1B|904725788</machine>    <!-- 20191025 -->
+	<machine>55F8-2794-A91C-5E33-395E-A5B4-CD7D-EDC4|357674859</machine>    <!-- 20191029 -->
+	<machine>2194-120F-D994-3F5B-0D5D-88AB-722E-4182|951618559</machine>    <!-- 20191121 -->
+	<machine>DE05-3F51-2D4A-6045-F32C-1AA2-9621-A749|405948194</machine>    <!-- 20200121 -->	
+	<machine>CD41-46D3-4290-5EA2-CE50-49E8-8829-39EE|405948194</machine>    <!-- 20200121 -->
+	<machine>DC62-C5C5-C327-0ED6-A9E6-D2A0-8404-803C|283138126</machine>    <!-- 20200127 -->
+	<machine>1429-F350-B8BD-E3CB-B560-AEC3-B8C9-60FF|2102521688</machine>   <!-- 20200130 -->
+	<machine>2B49-36BD-2731-8F7D-9BAF-2E02-4E89-21B3|2102521688</machine>   <!-- 20200130 -->
+	<machine>02B3-1C5E-9C6A-8CF9-6AD0-2A1B-26EE-298D|1838300296</machine>   <!-- 20200318 -->
+	<machine>311C-17D8-CE05-7A34-C849-932D-BB5B-F918|1838300296</machine>   <!-- 20200318 -->
+	<machine>5DAE-3FB1-0BEF-2914-47C3-6F03-83E0-DBC0|253304859</machine>    <!-- 20200331 -->
+	<machine>6C51-52AD-66D8-0DFB-CE53-7DB2-E505-289E|1003096916</machine>   <!-- 20200509 -->	
+	<machine>97E2-7992-8C0D-2675-E49C-4EFD-E9E8-C059|1003096916</machine>   <!-- 20200509 -->
+	<machine>MachineCode|QQNumber</machine>   <!-- endDate  -->
+</results>
