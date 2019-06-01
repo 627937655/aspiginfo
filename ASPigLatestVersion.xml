@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--ASPigLatestVersion.xml update 2019-15-18 00:30:00-->	
+<results>
+	<state>1</state>
+	<disabledproj>false</disabledproj>
+	<disabledfree>false</disabledfree>
+	<clouddiskurl>https://share.weiyun.com/5r8XF6d</clouddiskurl> 
+	<systemnotices>
+		<showenddate>2019-05-16</showenddate> 
+		<messagetext>null</messagetext>
+	</systemnotices>
+	<latestversion>
+		<releasedate>2019-05-16</releasedate> 
+		<mustupgrade>false</mustupgrade>
+		<fullbytenum>7,116,945</fullbytenum>
+		<fullhashmd5>33ED1D987208C091D058750BE89BBC18</fullhashmd5>
+		<abstractstr>
+			|
+			|20190516[张鑫初夏版]-----------------------------------------
+			|新增[日常军功洗将]，配套增加编辑器用于其参数调整及临时洗将；
+			|盛夏拼酒增加[金保3天获勋章],按勋章进度要求买圈数并按需邀请；
+			|皇家纺织换购可换2次，输入某商人代码2次，配套增加参数编辑器；
+			|调整雪橇阅兵敲钟练兵目标档项为档位序号，数值以游戏数据为准；
+			|将军塔筑造20倍可选，猴套强化40倍时机可选，猴套磨砺40倍可选；
+			|水晶石进化优先统勇装，水晶石进阶遇宝石超限自动先熔炼再进阶；
+			|简化临时任务红宝领取日志，头盔强化时自动兑换头盔装配到武将；
+			|新增[登录专用浏览器]，主用于百度爱奇艺竞技多玩需验证时登号；
+			|调整自定义登录用户名密码为必填，统一以用户名为索引切换帐号；
+			|为自定义配套增加[自定义登录助手]辅助户名密码输入及弹窗拦截；
+			|自定义辅助支持所有代理平台快速生成自定义登录地址及战报地址；
+			|修复乐趣网/37玩XP环境登录/傲世堂人人网出验证码不能登录问题；
+			|风云傲视区号[1-12/13-17/18-20/21/23/24]对应[1/2/3/4/5/6/7]；
+			|
+		</abstractstr>
+		<!-- <fulldownurl>a|b|c</fulldownurl> -->
+		<fulldownurl>
+			|http://106.12.12.59/ASPigLatestVersion.zip
+			|http://129.204.195.200/ASPigLatestVersion.zip
+			|http://www.geocities.ws/aspig/ASPigLatestVersion.zip
+			|http://my.zp68.com/filestores/2019/05/18/33544b1f79150486a9b143833c7d9ddb.zip
+			|http://my.zp68.com/filestores/2019/05/18/c36a8bc39fb63867683feeff1bb38335.zip
+			|http://my.zp68.com/filestores/2019/05/18/5bc2c3fd689c8bdb520e265865448be0.zip
+			|http://my.zp68.com/filestores/2019/05/18/20d2480c225f5feb55c33af29fa00ad8.zip
+			|http://my.zp68.com/filestores/2019/05/18/16fe90cca245f43564f7a15d0c4ee750.zip
+			|https://www.kzwr.com/kzwrfs?fid=af9804e32625sgv5a1.zip
+			|https://www.kzwr.com/kzwrfs?fid=32110ddcb8d743omp7.zip
+			|https://www.kzwr.com/kzwrfs?fid=bf33ec658392tb2y8y.zip
+			|https://www.kzwr.com/kzwrfs?fid=dea74ccf7be2zrljg9.zip
+			|https://www.kzwr.com/kzwrfs?fid=b091d96462feyx5rem.zip
+		</fulldownurl>
+	</latestversion>
+</results>
